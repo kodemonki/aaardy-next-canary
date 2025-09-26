@@ -1,7 +1,5 @@
+Run the development server and test
 
-
-Run the development server:
-
-npm i
-npm run dev
-npm run test
+- npm i
+- npm run dev
+- npm run test
